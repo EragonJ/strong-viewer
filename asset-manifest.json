@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/strong-viewer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/strong-viewer/static/js/main.0f900f5c.chunk.js",
+    "main.js.map": "/strong-viewer/static/js/main.0f900f5c.chunk.js.map",
+    "runtime-main.js": "/strong-viewer/static/js/runtime-main.37145946.js",
+    "runtime-main.js.map": "/strong-viewer/static/js/runtime-main.37145946.js.map",
+    "static/js/2.73e82335.chunk.js": "/strong-viewer/static/js/2.73e82335.chunk.js",
+    "static/js/2.73e82335.chunk.js.map": "/strong-viewer/static/js/2.73e82335.chunk.js.map",
+    "index.html": "/strong-viewer/index.html",
+    "precache-manifest.7aa11f43fbdfa820fd5fdcbb9e1ddc6d.js": "/strong-viewer/precache-manifest.7aa11f43fbdfa820fd5fdcbb9e1ddc6d.js",
+    "service-worker.js": "/strong-viewer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/strong-viewer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.73e82335.chunk.js.LICENSE.txt": "/strong-viewer/static/js/2.73e82335.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/strong-viewer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37145946.js",
+    "static/js/2.73e82335.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0f900f5c.chunk.js"
+  ]
+}
